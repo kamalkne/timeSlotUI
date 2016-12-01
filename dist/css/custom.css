@@ -16,3 +16,11 @@
     left: 40%;
     padding: 30px;
 }
+
+.red {
+    width: 50px;
+    border: 2px solid red;
+    color: green;
+    margin: 15px;
+    line-height: 25px;
+}
