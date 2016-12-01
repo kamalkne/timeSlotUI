@@ -10,4 +10,5 @@ To run application -
 3. Navigate to project directory (where index.html is kept)
 4. Run command:
      serve -p 3000
-5. This project will not work if nodeJS server is not running.
+5. Hit URL http://localhost:3000
+6. This project will not work if nodeJS server is not running. (Navigate to https://github.com/kamalkne/timeSlot in order to setup server application)
